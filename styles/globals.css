@@ -9,3 +9,7 @@ body {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.onePart{
+  background: linear-gradient(263.98deg, #6096E0 43.73%, #679DE3 52.81%, #619BE4 80.21%, #5B95DE 94.69%);
+}
