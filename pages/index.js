@@ -1,6 +1,7 @@
 import Button from "../components/Button";
 import Logo from "../components/logo";
 import Logo2 from "../components/logo2";
+import PartFive from "../components/PartFive";
 import PartFour from "../components/PartFour";
 import PartOne from "../components/PartOne";
 import PartThree from "../components/PartThree";
@@ -17,6 +18,7 @@ export default function Home() {
        <PartThree />
        <Button />
        <PartFour />
+       <PartFive />
      </div>
   )
 }
