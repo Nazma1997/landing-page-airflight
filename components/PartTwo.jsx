@@ -8,9 +8,9 @@ export default function PartTwo(){
   return(
     <div className="mt-10 mb-10">
       <h1 className="text-2xl font-bold text-gray-500 lg:ml-20 mx-5">L'experience LTI</h1>
-      <div className="lg:flex justify-evenly mt-10 mb-10">
+      <div className="lg:flex 2xl:flex md:flex justify-evenly mt-10 mb-10">
           <div>
-            <div className='rounded-full lg:border-8  border-blue-200 md:mx-36 mx-2'>
+            <div className='rounded-full lg:border-8 md:border-8   md:mx-10 mx-2 2xl:border-8  border-blue-200'>
                <Image src={pic2}alt="Pic" width={500} height={500}  />
             </div>
              <div>
@@ -20,7 +20,7 @@ export default function PartTwo(){
           </div>
 
           <div>
-            <div className=' md:mx-36 mx-2' >
+            <div className='  mx-2 md:mx-10' >
                <Image src={pic3}alt="Pic" width={500} height={500}  />
             </div>
              <div>
@@ -29,8 +29,8 @@ export default function PartTwo(){
              </div>
           </div>
 
-          <div>
-            <div className='rounded-full mx-2 lg:border-8 md:mx-36	 border-blue-200 '>
+          <div >
+            <div className='rounded-full mx-2 lg:border-8 2xl:border-8 	md:border-8   md:mx-10 border-blue-200 '>
                <Image src={pic4}alt="Pic" width={500} height={500}  />
             </div>
              <div>
