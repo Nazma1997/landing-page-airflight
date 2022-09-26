@@ -39,9 +39,9 @@ export default function PartSeven(){
          </div>
        </div>
 
-      <div className='relative'>
+      <div className='relative '>
         <Image src={img1}   alt='img' width={700} height={600} className='rounded-b-full	 xs:mx-10'/>
-        <p className='text-center font-bold text-7xl text-white -mt-44 relative'>. . . .</p>
+        <p className='text-center font-bold text-7xl text-white  -mt-44 relative'>. . . .</p>
       </div>
 
     </div>
