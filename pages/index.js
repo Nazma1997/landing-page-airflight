@@ -4,6 +4,7 @@ import Logo2 from "../components/logo2";
 import PartEight from "../components/PartEight";
 import PartFive from "../components/PartFive";
 import PartFour from "../components/PartFour";
+import PartNine from "../components/PartNine";
 import PartOne from "../components/PartOne";
 import PartSeven from "../components/PartSeven";
 import PartSix from "../components/PartSix";
@@ -25,6 +26,7 @@ export default function Home() {
        <PartSix />
        <PartSeven />
        <PartEight />
+       <PartNine />
      </div>
   )
 }
